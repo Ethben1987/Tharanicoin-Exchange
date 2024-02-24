@@ -11,4 +11,6 @@ You can also trade other supported tokens of many networks.
 
 Only Token listed in the Dapp is regulated by us. Any other tokens created and abandoned by us we do not hold responsibility.
 
-This is a Private token, tokens can be accquired only through contacting the Founder in this website - https://ethbencryptoprojects9.godaddysites.com/
+This is a Private token, tokens can be accquired through the exchange - https://0xtrader.com/market/THC-USDT for now and in Pawswap and Pancakeswap from March 1st week.
+
+Our Website - https://ethbencryptoprojects9.godaddysites.com/
